@@ -17,8 +17,8 @@
 
 ## 🔗 Live Demo
 
-👉 **Live URL:** [https://skillbridge-inky.vercel.app](https://skillbridge-inky.vercel.app/employer/home)  
-📁 **GitHub:** [github.com/muzammil1244/SkillBridge-v0.2](https://github.com/muzammil1244/SkillBridge-v0.2)
+👉 **Live URL:** [https://skillbridge-inky.vercel.app](https://skillbridge-v0-2-1cwl.onrender.com/login)  
+📁 **GitHub:** [github.com/muzammil1244/SkillBridge-v0.2](https://github.com/muzammil124460/SkillBridge/edit/main/README.md)
 
 ---
 
@@ -202,7 +202,7 @@ CLIENT_URL=http://localhost:5173
 **Mohammad Muzammil**  
 📧 muzammil844641@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/muzammil1244/)  
-💻 [GitHub](https://github.com/muzammil1244)
+💻 [GitHub](https://github.com/muzammil124460)
 
 ---
 
