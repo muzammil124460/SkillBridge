@@ -131,7 +131,7 @@ app.use("/api",Chat)
 app.get("/check",(req,res)=>{
 
   try {
-    return res.send("check successfully")
+    return res.send("check successfully done")
   } catch (error) {
     return res.send(error)
   }
