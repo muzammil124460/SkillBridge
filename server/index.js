@@ -128,6 +128,14 @@ app.use("/api", jobRoutes);
 app.use("/api", profileRoutes);
 app.use("/review",reviewroutes)
 app.use("/api",Chat)
+app.get("/check",(req,res)=>{
+
+  try {
+    return res.send("check successfully")
+  } catch (error) {
+    return res.send(error)
+  }
+})
 
 const PORT = process.env.portnum || 5000;
   server.listen(PORT,()=>console.log('server is started',PORT))
